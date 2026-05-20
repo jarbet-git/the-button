@@ -38,3 +38,7 @@ Masz dwie możliwości:
 
 🔹 4. Uruchom serwer
 `python manage.py runserver`
+
+## Bezpieczeństwo
+
+Gałąź master jest chroniona. Zmiany muszą przejść przez Pull Request, recenzję oraz wymagane status checki.
