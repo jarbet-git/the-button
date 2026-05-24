@@ -1,2 +1,2 @@
 gunicorn
-Django==6.0.5
+Django>=4.0,<5.0
